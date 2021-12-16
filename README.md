@@ -1,18 +1,39 @@
 # cinemac-backend
 
-Sobre o Projeto
+<div align="center">
 
-Este é um projeto Restful, uma api desenvolvida com o intuito de estudos e práticas sobre desenvolvimento de aplicações backend.
+[![GitHub stars](https://img.shields.io/github/stars/marviniDev/cinemac)](https://github.com/marviniDev/cinemac/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/marviniDev/cinemac)](https://github.com/marviniDev/cinemac//blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/marviniDev/cinemac)](https://github.com/marviniDev/cinemac//network)
 
-Ferramentas
-Java JDK (versão atual)
+</div>
+
+## 📋 Índice
+
+- [Sobre](#-Sobre)
+- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
+- [Configurando o ambiente](#-Preparando-o-ambiente)
+- [Como executar o projeto](#-Como-executar-o-projeto)
+
+---
+
+## 📖 Sobre
+
+Este é um projeto Rest, uma api desenvolvida com o intuito de estudos e práticas sobre desenvolvimento de aplicações backend.
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+O projeto está desenvolvido utilizando as seguintes tecnologias:
+
+Java
 Maven
 Spring Boot
 Hibernate
 Postgres 
-Vs Code
 
-Configuração para básica para o projeto
+---
+## ⌨ Preparando o ambiente
+	
 instale o Java JDK
 
 Link: https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi
@@ -46,6 +67,27 @@ clique em editar e cadastre este dois parâmetros
 C:\apache-maven-3.8.4\bin
 
 Será necessário reiniciar a máquina.
+	
+---
 
+## ⌨ Como executar o projeto
 
- 
+```bash
+# Clonar o repositório
+git clone https://github.com/marviniDev/cinemac-backend
+
+# Entrar no diretório
+cd cinemac-backend
+
+# Baixar as dependências
+mvn install
+
+# Executar o servidor
+mvn spring-boot:run
+```
+
+Feito isso, abra o seu navegador e acesse `http://localhost:8080/api/swagger-ui/`
+
+---
+
+Desenvolvido por MarviniDev
