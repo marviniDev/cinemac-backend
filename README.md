@@ -39,17 +39,23 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 Link: https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi
 Versão Atual	
 
+---
+	
 #instale o Postgres
 	
 Link: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 Baixe o instalador para Windows
 	
 Defina a senha 123 para acesso ao banco e crie um database chamado cinemac
+	
+---
 
 #instale o Maven
 
 Link: https://maven.apache.org/download.cgi
 Tipo do download: Binary zip archive
+	
+---
 
 #Descompacte o arquivo baixado no Disco Local: (‘C’) do Windows
 
