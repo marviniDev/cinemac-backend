@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/marviniDev/cinemac)](https://github.com/marviniDev/cinemac/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/marviniDev/cinemac)](https://github.com/marviniDev/cinemac//blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/marviniDev/cinemac)](https://github.com/marviniDev/cinemac//network)
+[![GitHub stars](https://img.shields.io/github/stars/marviniDev/cinemac-backend)](https://github.com/marviniDev/cinemac-backend/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/marviniDev/cinemac-backend)](https://github.com/marviniDev/cinemac-backend//blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/marviniDev/cinemac-backend)](https://github.com/marviniDev/cinemac-backend//network)
 
 </div>
 
