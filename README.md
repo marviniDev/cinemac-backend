@@ -46,8 +46,14 @@ Versão Atual
 Link: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 Baixe o instalador para Windows
 	
-Defina a senha 123 para acesso ao banco e crie um database chamado cinemac
+Defina a senha 123 para acesso ao banco
 	
+---
+	
+#Após a instalação do postgres abra o pgAdmin
+
+cria uma base de dados chamada cinemac
+
 ---
 
 #instale o Maven
