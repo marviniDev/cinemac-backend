@@ -58,6 +58,8 @@ Tipo do download: Binary zip archive
 ---
 
 #Descompacte o arquivo baixado no Disco Local: (‘C’) do Windows
+	
+---
 
 #Configuração de variáveis do ambiente
 Busque por "Editar variáveis de ambiente do sistema" > 
