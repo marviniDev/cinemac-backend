@@ -25,33 +25,35 @@ Este é um projeto Rest, uma api desenvolvida com o intuito de estudos e prátic
 
 O projeto está desenvolvido utilizando as seguintes tecnologias:
 
-Java
-Maven
-Spring Boot
-Hibernate
-Postgres 
+- Java
+- Maven
+- Spring Boot
+- Hibernate
+- Postgres 
 
 ---
 ## ⌨ Preparando o ambiente
 	
-instale o Java JDK
+#instale o Java JDK
 
 Link: https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi
 Versão Atual	
 
-instale o Postgres
+#instale o Postgres
 	
 Link: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 Baixe o instalador para Windows
+	
+Defina a senha 123 para acesso ao banco e crie um database chamado cinemac
 
-instale o Maven
+#instale o Maven
 
 Link: https://maven.apache.org/download.cgi
 Tipo do download: Binary zip archive
 
-Descompacte o arquivo baixado no Disco Local: (‘C’) do Windows
+#Descompacte o arquivo baixado no Disco Local: (‘C’) do Windows
 
-Configuração de variáveis do ambiente
+#Configuração de variáveis do ambiente
 Busque por "Editar variáveis de ambiente do sistema" > 
 na tela de propriedades clique no botão "Variáveis de Ambiente">
 na seção de "Variáveis de usuário para (usuário)" clique em novo>
@@ -78,6 +80,12 @@ git clone https://github.com/marviniDev/cinemac-backend
 
 # Entrar no diretório
 cd cinemac-backend
+	
+# Verificar a disponibilidade do mavem
+mvn --version
+	
+# limpar os resíduos
+mvn clean
 
 # Baixar as dependências
 mvn install
